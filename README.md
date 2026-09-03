@@ -4,53 +4,47 @@
 
 <h1 align="center">Hi 👋, I'm Tasneem Rezwana</h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Frontend Developer from Bangladesh</h3>
 
----
+<p>
+I'm a CSE student interested in programming and web development. 
+I enjoy learning new technologies and building projects to improve my skills.
+</p>
 
-## 👩‍💻 About Me
+### 🌱 Currently Learning
 
-I'm a CSE student passionate about programming and web development.  
-I enjoy learning new technologies, solving problems, and building clean and user-friendly websites.
+- React
+- Tailwind CSS
+- Web Development
 
-- 🌱 Currently learning **React & Tailwind CSS**
-- 💻 Exploring **Web Development**
-- 🧠 Improving my **problem-solving and programming skills**
+### 🛠️ Skills
 
----
-
-## 🛠️ Skills
-
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,mysql,html,css,js,ts,tailwind,react" />
 </p>
 
----
+### 🔗 Connect with me
 
-## 🔗 Connect with me
-
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/tasneem-rezwana-b16012407/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
   </a>
-  
+  &nbsp;
   <a href="https://www.facebook.com/tasneem.rezwana.2024" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" width="35" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasneem28892&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasneem28892&layout=compact" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tasneem28892&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tasneem28892&show_icons=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasneem28892" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasneem28892" />
 </p>
