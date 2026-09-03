@@ -36,13 +36,6 @@ I enjoy learning new technologies and building projects to improve my skills.
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tasneem28892&show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasneem28892&layout=compact" />
-</p>
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=tasneem28892" />
