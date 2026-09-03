@@ -1,23 +1,56 @@
 <p align="center">
   <img src="./tasneem_github_banner_preview.png" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Tasneem Rezwana</h1>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Tailwind, React**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 👩‍💻 About Me
+
+I'm a CSE student passionate about programming and web development.  
+I enjoy learning new technologies, solving problems, and building clean and user-friendly websites.
+
+- 🌱 Currently learning **React & Tailwind CSS**
+- 💻 Exploring **Web Development**
+- 🧠 Improving my **problem-solving and programming skills**
+
+---
+
+## 🛠️ Skills
+
 <p align="left">
-<a href="https://linkedin.com/in/tasneem rezwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasneem rezwana" height="30" width="40" /></a>
-<a href="https://fb.com/tasneem rezwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasneem rezwana" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/1350" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1350" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,mysql,html,css,js,ts,tailwind,react" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasneem28892&show_icons=true&locale=en&layout=compact" alt="tasneem28892" /></p>
+## 🔗 Connect with me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasneem28892&show_icons=true&locale=en" alt="tasneem28892" /></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/tasneem-rezwana-b16012407/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
+  </a>
+  
+  <a href="https://www.facebook.com/tasneem.rezwana.2024" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasneem28892&" alt="tasneem28892" /></p>
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasneem28892&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tasneem28892&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasneem28892" alt="GitHub Streak" />
+</p>
