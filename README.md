@@ -7,7 +7,7 @@
 <h3 align="center">Frontend Developer from Bangladesh</h3>
 
 <p>
-I'm a CSE student interested in programming and web development. 
+I'm a CSE student interested in programming and web development.
 I enjoy learning new technologies and building projects to improve my skills.
 </p>
 
@@ -15,7 +15,6 @@ I enjoy learning new technologies and building projects to improve my skills.
 
 - React
 - Tailwind CSS
-- Web Development
 
 ### 🛠️ Skills
 
@@ -29,7 +28,7 @@ I enjoy learning new technologies and building projects to improve my skills.
   <a href="https://www.linkedin.com/in/tasneem-rezwana-b16012407/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
   </a>
-  &nbsp;
+
   <a href="https://www.facebook.com/tasneem.rezwana.2024" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="35" />
   </a>
@@ -38,13 +37,13 @@ I enjoy learning new technologies and building projects to improve my skills.
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasneem28892&layout=compact" />
-</p>
-
-<p>
   <img src="https://github-readme-stats.vercel.app/api?username=tasneem28892&show_icons=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasneem28892" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasneem28892&layout=compact" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=tasneem28892" />
 </p>
