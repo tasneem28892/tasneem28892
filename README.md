@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./tasneem_github_banner_preview.png" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Tasneem Rezwana</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
