@@ -25,17 +25,17 @@ I enjoy learning new technologies and building projects to improve my skills.
 ### 🔗 Connect with me
 
 <p>
+  <a href="https://www.linkedin.com/in/tasneem-rezwana-b16012407/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" />
+  </a>
+
+<a href="https://www.facebook.com/tasneem.rezwana.2024" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tasneemrezwana28@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" width="35" />
 </a>
-
-  <a href="https://www.facebook.com/tasneem.rezwana.2024" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="35" />
-  </a>
-
-  <a href="mailto:tasneemrezwana28@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="35" />
-  </a>
 </p>
 
 ### 📊 GitHub Stats
