@@ -32,10 +32,13 @@ I enjoy learning new technologies and building projects to improve my skills.
   <a href="https://www.facebook.com/tasneem.rezwana.2024" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="35" />
   </a>
+
+  <a href="mailto:tasneemrezwana28@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" />
+  </a>
 </p>
 
 ### 📊 GitHub Stats
-
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=tasneem28892" />
